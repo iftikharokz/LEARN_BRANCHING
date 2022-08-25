@@ -11,6 +11,8 @@ struct ContentView: View {
     var body: some View {
         VStack{
             Text("HELLO WORLD FROM ISLAMABAD")
+                .foregroundColor(.green)
+                .padding()
         }
         .padding(.horizontal)
         .foregroundColor(.white)
