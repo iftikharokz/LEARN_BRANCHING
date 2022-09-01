@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		2C2B3A7B28BF2A2300162AAD /* Don't Fight.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = 2C2B3A7A28BF2A2200162AAD /* Don't Fight.mp4 */; };
 		2CD69DDC282D1483003708C5 /* testing_projectApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2CD69DDB282D1483003708C5 /* testing_projectApp.swift */; };
 		2CD69DDE282D1483003708C5 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2CD69DDD282D1483003708C5 /* ContentView.swift */; };
 		2CD69DE0282D1484003708C5 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 2CD69DDF282D1484003708C5 /* Assets.xcassets */; };
@@ -15,6 +16,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		2C2B3A7A28BF2A2200162AAD /* Don't Fight.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Don't Fight.mp4"; sourceTree = "<group>"; };
 		2CD69DD8282D1483003708C5 /* testing project.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "testing project.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		2CD69DDB282D1483003708C5 /* testing_projectApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = testing_projectApp.swift; sourceTree = "<group>"; };
 		2CD69DDD282D1483003708C5 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -73,6 +75,7 @@
 			isa = PBXGroup;
 			children = (
 				2CD69DDD282D1483003708C5 /* ContentView.swift */,
+				2C2B3A7A28BF2A2200162AAD /* Don't Fight.mp4 */,
 				2CF750DC28B78DFE0089F767 /* DetailView.swift */,
 			);
 			path = view;
@@ -137,6 +140,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				2CD69DE3282D1484003708C5 /* Preview Assets.xcassets in Resources */,
+				2C2B3A7B28BF2A2300162AAD /* Don't Fight.mp4 in Resources */,
 				2CD69DE0282D1484003708C5 /* Assets.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
